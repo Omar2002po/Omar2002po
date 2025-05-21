@@ -4,6 +4,8 @@
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-abdelnasser/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omaarabdelnasser024@gmail.com)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/omarabdelnasser313)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/omarabdelnaser20)
   
 </div>
 
@@ -69,6 +71,27 @@ Senior **Artificial Intelligence** student at **Helwan University** with hands-o
 - 🔄 Building end-to-end ML pipelines
 - 📦 Model compression and quantization for efficient deployment
 
+---
+
+## 📚 Selected Projects
+
+1. **Advanced RAG System with Multi-agent Architecture**
+   - Implemented a semantic retrieval system with vector stores and multi-stage reasoning
+   - Tech stack: LangChain, Chroma, HuggingFace Embeddings, FastAPI
+
+2. **Computer Vision for Medical Image Analysis**
+   - Developed models for medical image segmentation and classification
+   - Tech stack: PyTorch, OpenCV, Monai, TorchVision
+
+3. **Educational AI Assistant**
+   - Created an intelligent tutoring system with personalized learning paths
+   - Tech stack: LlamaIndex, LangGraph, Streamlit, Vector Databases
+
+4. **Generative Models for Synthetic Data**
+   - Implemented diffusion models for creating synthetic training data
+   - Tech stack: PyTorch, Diffusers, Weights & Biases
+
+---
 
 ## 📬 Get In Touch!
 
@@ -76,6 +99,8 @@ I'm always open to collaboration on innovative AI projects and research. Feel fr
 
 - 📧 **Email**: [omaarabdelnasser024@gmail.com](mailto:omaarabdelnasser024@gmail.com)
 - 🔗 **LinkedIn**: [linkedin.com/in/omar-abdelnasser](https://www.linkedin.com/in/omar-abdelnasser/)
+- 🤗 **Hugging Face**: [huggingface.co/omarabdelnasser313](https://huggingface.co/omarabdelnasser313)
+- 📊 **Kaggle**: [kaggle.com/omarabdelnaser20](https://www.kaggle.com/omarabdelnaser20)
 
 ---
 
