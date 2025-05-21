@@ -62,36 +62,14 @@ Senior **Artificial Intelligence** student at **Helwan University** with hands-o
 - 🤝 **Generative Agents** with advanced reasoning and collaboration capabilities
 - 🌐 **Retrieval-Augmented Generation (RAG)** for knowledge-grounded AI
 - 📊 **Fine-tuning strategies** for production-ready ML systems
-- 🎯 **Few-shot learning** techniques for resource-constrained applications
 
 ### Technical Specialties
 - 🧠 Large Language Model orchestration and deployment
 - 🖼️ Vision-Language pre-training and alignment
 - 📝 Prompt engineering and evaluation frameworks
 - 🔄 Building end-to-end ML pipelines
-- 📦 Model compression and quantization for efficient deployment
 
----
 
-## 📚 Selected Projects
-
-1. **Advanced RAG System with Multi-agent Architecture**
-   - Implemented a semantic retrieval system with vector stores and multi-stage reasoning
-   - Tech stack: LangChain, Chroma, HuggingFace Embeddings, FastAPI
-
-2. **Computer Vision for Medical Image Analysis**
-   - Developed models for medical image segmentation and classification
-   - Tech stack: PyTorch, OpenCV, Monai, TorchVision
-
-3. **Educational AI Assistant**
-   - Created an intelligent tutoring system with personalized learning paths
-   - Tech stack: LlamaIndex, LangGraph, Streamlit, Vector Databases
-
-4. **Generative Models for Synthetic Data**
-   - Implemented diffusion models for creating synthetic training data
-   - Tech stack: PyTorch, Diffusers, Weights & Biases
-
----
 
 ## 📬 Get In Touch!
 
