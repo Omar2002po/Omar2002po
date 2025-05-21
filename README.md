@@ -18,7 +18,6 @@ Senior **Artificial Intelligence** student at **Helwan University** with hands-o
 - 👁️ **Computer Vision**
 - 🎨 **Generative AI**
 - 🔄 **Multi-modal Systems**
-- 🚀 **AI System Design & Deployment**
 
 ---
 
