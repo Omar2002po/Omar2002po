@@ -1,44 +1,86 @@
-# 👋 Hi, I'm Omar Abdelnasser
+# Omar Abdelnasser | AI Engineer & Researcher 🧠
 
-🎓 **Senior Artificial Intelligence Student** at **Helwan University**, passionate about Machine Learning, Deep Learning, and Generative AI. I enjoy building intelligent systems that turn complex theory into impactful real-world solutions.
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-abdelnasser/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omaarabdelnasser024@gmail.com)
+  
+</div>
 
-🔬 I have a solid foundation in **machine learning**, **pattern recognition**, and **deep learning**, and I've worked on diverse, multi-domain projects in **Natural Language Processing**, **Computer Vision**, and **Educational AI Assistants**.
+## 👨‍💻 About Me
 
----
+Senior **Artificial Intelligence** student at **Helwan University** with hands-on experience in developing cutting-edge AI solutions. I bridge the gap between complex theoretical concepts and practical applications, specializing in:
 
-## 🧠 What I'm Interested In
-- 💡 Machine Learning Engineering
-- 🎨 Generative AI: GANs, Stable Diffusion, and Diffusion Models
-- 🧠 Vision-Language Models (VLMs) and Multimodal AI
-- 🧾 NLP, LLMs, and Retrieval-Augmented Generation (RAG)
-- 📊 Model evaluation, optimization, and deployment
-
-
-## 🛠️ Tech Stack & Tools
-
-- **Languages**: Python, c/c++, java, SQL/PI SQL, Bash, Markdown 
-- **Frameworks**: PyTorch, TensorFlow, Hugging Face, LangChain, LangGraph  ,llamaIndex , CrewAI, keras, AutoGen
-- **Tools**: Docker, FastAPI, Streamlit, Tkinter, OpenCV  , Weights & Biases (W&B) 
-- **ML/NLP**: Transformers, Vision Models, Transfer Learning, CTC/Attention models  
-- **Deployment**: Docker, CUDA, REST APIs  
-- **Version Control**: Git, GitHub
+- 🤖 **Machine Learning Engineering**
+- 🔍 **Natural Language Processing**
+- 👁️ **Computer Vision**
+- 🎨 **Generative AI**
+- 🔄 **Multi-modal Systems**
+- 🚀 **AI System Design & Deployment**
 
 ---
 
-## 📫 Let's Connect
+## 🛠️ Technical Expertise
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/omar-abdelnasser/)  
-- 📧 [omaarabdelnasser024@gmail.com](omaarabdelnasser024@gmail.com)  
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 
+### AI/ML Frameworks
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+
+### LLM & Agent Frameworks
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=data:image/png;base64,...)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-FF5A60?style=flat-square)
+![CrewAI](https://img.shields.io/badge/CrewAI-00A98F?style=flat-square)
+![AutoGen](https://img.shields.io/badge/AutoGen-007ACC?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-7A42F4?style=flat-square)
+
+### Development & Deployment
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![W&B](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
 
 ---
 
-## 📌 Currently Working On
-- Researching **multimodal models** and **generative agents**
-- Building reusable AI tools that bridge theory and product
+## 🔬 Research & Project Focus
+
+### Current Research Interests
+- 🧩 **Multi-modal AI Systems** combining vision, language, and structured data
+- 🤝 **Generative Agents** with advanced reasoning and collaboration capabilities
+- 🌐 **Retrieval-Augmented Generation (RAG)** for knowledge-grounded AI
+- 📊 **Fine-tuning strategies** for production-ready ML systems
+- 🎯 **Few-shot learning** techniques for resource-constrained applications
+
+### Technical Specialties
+- 🧠 Large Language Model orchestration and deployment
+- 🖼️ Vision-Language pre-training and alignment
+- 📝 Prompt engineering and evaluation frameworks
+- 🔄 Building end-to-end ML pipelines
+- 📦 Model compression and quantization for efficient deployment
+
+
+## 📬 Get In Touch!
+
+I'm always open to collaboration on innovative AI projects and research. Feel free to reach out:
+
+- 📧 **Email**: [omaarabdelnasser024@gmail.com](mailto:omaarabdelnasser024@gmail.com)
+- 🔗 **LinkedIn**: [linkedin.com/in/omar-abdelnasser](https://www.linkedin.com/in/omar-abdelnasser/)
 
 ---
 
-## ✨ Fun Fact
-I love giving detailed, explainable answers—whether to people or machines.
+<div align="center">
+  
+### "I enjoy translating complex AI theory into elegant, practical solutions that make a difference."
 
+</div>
