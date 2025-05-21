@@ -17,7 +17,7 @@
 ## 🛠️ Tech Stack & Tools
 
 - **Languages**: Python, Bash, Markdown  
-- **Frameworks**: PyTorch, TensorFlow, Hugging Face, LangChain, LangGraph  
+- **Frameworks**: PyTorch, TensorFlow, Hugging Face, LangChain, LangGraph  ,llamaIndex , CrewAI, keras, AutoGen
 - **Tools**: Docker, FastAPI, Streamlit, Tkinter, OpenCV  
 - **ML/NLP**: Transformers, Vision Models, Transfer Learning, CTC/Attention models  
 - **Deployment**: Docker, CUDA, REST APIs  
@@ -27,7 +27,7 @@
 
 ## 📫 Let's Connect
 
-- 🌐 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/omar-abdelnasser/))  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/omar-abdelnasser/)  
 - 📧 [omaarabdelnasser024@gmail.com](omaarabdelnasser024@gmail.com)  
 
 
