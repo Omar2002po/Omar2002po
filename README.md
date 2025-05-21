@@ -8,9 +8,9 @@
 
 ## 🧠 What I'm Interested In
 - 💡 Machine Learning Engineering
-- 🤖 Generative AI & Agentic Workflows
+- 🎨 Generative AI: GANs, Stable Diffusion, and Diffusion Models
+- 🧠 Vision-Language Models (VLMs) and Multimodal AI
 - 🧾 NLP, LLMs, and Retrieval-Augmented Generation (RAG)
-- 🎥 Multimodal AI (Vision + Language)
 - 📊 Model evaluation, optimization, and deployment
 
 
