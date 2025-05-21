@@ -27,8 +27,8 @@
 
 ## 📫 Let's Connect
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- 📧 [youremail@example.com](mailto:youremail@example.com)  
+- 🌐 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/omar-abdelnasser/))  
+- 📧 [omaarabdelnasser024@gmail.com](omaarabdelnasser024@gmail.com)  
 
 
 ---
