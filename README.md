@@ -16,9 +16,9 @@
 
 ## 🛠️ Tech Stack & Tools
 
-- **Languages**: Python, Bash, Markdown  
+- **Languages**: Python, c/c++, java, SQL/PI SQL, Bash, Markdown 
 - **Frameworks**: PyTorch, TensorFlow, Hugging Face, LangChain, LangGraph  ,llamaIndex , CrewAI, keras, AutoGen
-- **Tools**: Docker, FastAPI, Streamlit, Tkinter, OpenCV  
+- **Tools**: Docker, FastAPI, Streamlit, Tkinter, OpenCV  , Weights & Biases (W&B) 
 - **ML/NLP**: Transformers, Vision Models, Transfer Learning, CTC/Attention models  
 - **Deployment**: Docker, CUDA, REST APIs  
 - **Version Control**: Git, GitHub
